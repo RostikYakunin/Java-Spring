@@ -1,0 +1,24 @@
+вер. 29, 2022 7:04:01 ПП org.example.Task2.Main main
+INFO: applicationContext is done
+вер. 29, 2022 7:04:01 ПП org.example.Task2.Main main
+INFO: new knight is created
+вер. 29, 2022 7:04:04 ПП org.example.Task2.Main main
+INFO: first quest is started by knight
+вер. 29, 2022 7:04:07 ПП org.example.Task2.Main main
+INFO: second quest is started by knight
+вер. 29, 2022 7:04:25 ПП org.example.Task2.Main main
+INFO: applicationContext is done
+вер. 29, 2022 7:04:25 ПП org.example.Task2.Main main
+INFO: new knight is created
+вер. 29, 2022 7:04:28 ПП org.example.Task2.Main main
+INFO: first quest is started by knight
+вер. 29, 2022 7:04:31 ПП org.example.Task2.Main main
+INFO: second quest is started by knight
+вер. 29, 2022 7:16:40 ПП org.example.Task2.Main main
+INFO: applicationContext is done
+вер. 29, 2022 7:16:40 ПП org.example.Task2.Main main
+INFO: new knight is created
+вер. 29, 2022 7:16:43 ПП org.example.Task2.Main main
+INFO: first quest is started by knight
+вер. 29, 2022 7:16:46 ПП org.example.Task2.Main main
+INFO: second quest is started by knight
